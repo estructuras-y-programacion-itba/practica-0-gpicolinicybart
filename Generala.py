@@ -1,6 +1,5 @@
 #Generala con dos jugadores y csv
 
-
 import random
 import csv
 #csv
